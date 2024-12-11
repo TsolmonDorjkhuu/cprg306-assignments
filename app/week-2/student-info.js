@@ -4,7 +4,7 @@ export default function StudentInfo(){
     return (
         <>
             <p>Tsolmon Dorjkhuu</p>
-            <Link href={""} style={{textDecoration:"underline"}}>Project Repository</Link>
+            <Link href={"https://github.com/TsolmonDorjkhuu/cprg306-assignments"} style={{textDecoration:"underline"}}>Project Repository</Link>
         </>
     )
 }
